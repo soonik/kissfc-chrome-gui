@@ -246,9 +246,9 @@
 	"text.level": "레벨",
 	"text.3d": "3D",
 	"text.armed": "암",
-	"text.disarmed": "디스암",
+	"text.disarmed": "아밍 해제",
 	"text.enable-motor-test": "모터 테스트 ",
-	"text.motor-test-warning": "주의 - 아주 위험할 수 있습니다!<br/><br/>모터 테스트를 시작하기 전에 반드시 프로펠러를 제거해주세요!<br/><br/>이 기능으로 인한 손해는 사용자 개인의 책임입니다.<br/><br/>FC가 디스암되었을 때에만 동작합니다.<br/><br/>",
+	"text.motor-test-warning": "주의 - 아주 위험할 수 있습니다!<br/><br/>모터 테스트를 시작하기 전에 반드시 프로펠러를 제거해주세요!<br/><br/>이 기능으로 인한 손해는 사용자 개인의 책임입니다.<br/><br/>아밍이 해제되었을 때에만 동작합니다.<br/><br/>",
 	"legend.1": "자이로 X",
 	"legend.2": "자이로 Y",
 	"legend.3": "자이로 Z",
@@ -357,7 +357,7 @@
 	"title.esc-settings" : "KiSS ESC 설정",
 	"column.esc-number" : "ESC",
 	"column.esc-reverse" : "회전 방향을 반대로",
-	"column.esc-3dmode": "3D mode",
+	"column.esc-3dmode": "3D 모드",
 	"column.turtle-mode": "터틀 모드",
 	"button.select-remote-firmware": "서버 펌웨어 선택",
 	"button.download-firmware": "펌웨어 다운로드",
@@ -368,6 +368,6 @@
 	"button.reset-model": "모델 리셋",
 	"column.adaptive-filter": "어댑티브 필터 활성화",
 	"title.adaptive-filter": "어댑티브 필터",
-	"column.runcam": "Runcam split",
-	"column.led-brightness": "Brightness"
+	"column.runcam": "런캠 스플릿",
+	"column.led-brightness": "밝기"
 }

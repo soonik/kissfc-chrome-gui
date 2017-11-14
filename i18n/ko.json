@@ -235,7 +235,7 @@
 	"title.telemetry": "텔레메트리",
 	"button.test": "테스트",
 	"button.calibrate-accelerometer": "가속도계 보정",
-	"text.motor-test-button": "내가 무슨 짓을 저지를지 잘 알고 있습니다",
+	"text.motor-test-button": "위험요인에 대해 확인하고 이해했습니다.",
 	"column.mode": "모드:",
 	"column.status": "상태:",
 	"column.angle-x": "X축각도:",
@@ -368,8 +368,8 @@
 	"button.reset-model": "모델 리셋",
 	"column.adaptive-filter": "어댑티브 필터 활성화",
 	"title.adaptive-filter": "어댑티브 필터",
-	"column.runcam": "Runcam split",
-	"column.led-brightness": "Brightness",
-	"menu.fc-flasher":"FC Flasher",
-	"text.fc-type" : "FC type"
+	"column.runcam": "런캠 스플릿",
+	"column.led-brightness": "LED밝기",
+	"menu.fc-flasher":"FC 펌업",
+	"text.fc-type" : "FC 타입"
 }
